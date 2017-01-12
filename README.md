@@ -1,2 +1,2 @@
 # helloworld
-Experimentation Project for git and github.
+This is a simple experimentation Project for git and github.
